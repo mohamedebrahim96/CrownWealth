@@ -14,3 +14,7 @@ The codebase focuses on following key things:
 - [x] Dark mode 🌗
 - [x] Jetpack Compose UI
 - [ ] Tests ***(WIP)***
+
+
+
+![MVVM Architecture](docs/media/mvvm-arch.jpg)
