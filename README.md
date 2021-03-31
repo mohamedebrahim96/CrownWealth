@@ -18,3 +18,7 @@ The codebase focuses on following key things:
 
 
 ![MVVM Architecture](docs/media/mvvm-arch.jpg)
+
+## Roadmap
+
+You can check out the [Project Board](https://github.com/mohamedebrahim96/CrownWealth/projects/1) to see the next steps.
